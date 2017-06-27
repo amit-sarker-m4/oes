@@ -1,0 +1,100 @@
+body {
+    background-color: #00000;
+	
+}
+
+h2 {
+    color: #069604;
+}
+h3 {
+    color: #069604;
+	
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 15px;
+	color:#F9F9FD;
+}  
+
+input {
+	color: #EF0F38;
+}
+
+
+#main {
+	width:960px;
+	margin:0 auto;
+	background:#03138D;
+	
+} 
+
+#header {
+	margin-top:10px;
+	width: 960px;
+	height: 50px;
+	padding-right: 100px;
+}
+
+
+.about {
+	line-height:30px;
+    height:500px;
+    width:500px;
+    float:left;
+	padding-left:130px;
+	padding-right:130px;
+	
+	
+	
+    
+}
+.log {
+    height:500px;
+    width:400px;
+    float:right;
+	padding-left:160px;
+ 
+}
+
+a {
+	text-decoration:none;
+	color: #AB0404;	
+}
+
+
+.image{
+	width:70px;
+	float:left;
+	margin-top: 20px;
+	margin-left:500px;
+	
+}
+
+.reg {
+	width: 700px;
+	float:right;
+	margin-top: 20px;
+	
+}
+
+.home{
+	width:960px;
+	
+}
+
+a:hover {
+	color: #FFCC00;
+	text-decoration: underline;
+}
+.user{
+	text-align:center;
+}
+.admin{
+	text-align:center;
+}
+
+
+
+
+
